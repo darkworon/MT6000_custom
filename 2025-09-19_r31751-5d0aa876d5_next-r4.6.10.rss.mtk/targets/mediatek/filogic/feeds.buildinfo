@@ -1,0 +1,5 @@
+src-git packages https://github.com/pesa1234/packages.git^948789a2ef25166781167ed46dbb592c34187de3
+src-git luci https://github.com/pesa1234/luci.git^a71c11a9a4f232854368d33f0d35880865b14f4d
+src-git routing https://git.openwrt.org/feed/routing.git^22487dc8f6de98b32d8343abe98aa8de2bd75fe6
+src-git telephony https://git.openwrt.org/feed/telephony.git^44d6355a7b2d69dd25d73913811b421fc504b836
+src-git video https://github.com/openwrt/video.git^1668ab74cf47cdec753895e70007083ba9c69fe4
